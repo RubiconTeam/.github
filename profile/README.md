@@ -1,3 +1,3 @@
-![i was never book smart im money smart](https://github.com/RubiconFramework/Rubicon/assets/98416575/4e741232-05f8-4cbe-8429-b057be0063dd)
+![i was never book smart im money smart](https://github.com/RubiconFramework/.github/assets/98416575/6c3f8437-e4cc-40c3-ba63-1ca7ddee15be)
 
 welcome to the underground
