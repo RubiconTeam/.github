@@ -1,1 +1,1 @@
-the name of this org (and engine) is a rain world reference.
+this entire organization is a rain world reference.
