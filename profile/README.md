@@ -1,4 +1,4 @@
-"this entire organization is a rain world reference."
+Makers of the [Rubicon Engine](https://github.com/RubiconTeam/Rubicon) and all of its components.
 
 ## Roadmap
 We're organizing our tasks and all that through Trello, check us out here!
