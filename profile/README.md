@@ -6,6 +6,6 @@ Makers of [Rubicon Engine](https://github.com/RubiconTeam/Rubicon) and all of it
 
 ## Contributions
 - [BeefStarchJello](https://twitter.com/i/user/1155441339246551043): Made the logo
-- [DooDii](https://twitter.com/i/user/1373127588005224455)
+- [DooDii](https://twitter.com/i/user/1373127588005224455): Made the banner
 
 ### [Discord Server](https://discord.gg/HMDFMM3ffu)
