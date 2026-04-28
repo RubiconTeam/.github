@@ -1,4 +1,4 @@
-Makers of [Rubicon Engine](https://github.com/RubiconTeam/Rubicon) and all of its components.
+Makers of [Rubicon Engine](https://github.com/RubiconTeam/rubicon_fnf) and all of its components.
 
 ## Developers
 - [anniebuue](https://twitter.com/i/user/875471004365185024)
