@@ -1,3 +1,5 @@
+<img src="../rubicon_banner.png">
+
 Makers of [Rubicon Engine](https://github.com/RubiconTeam/rubicon_fnf) and all of its components.
 
 ## Developers
